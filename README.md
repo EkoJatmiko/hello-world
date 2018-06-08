@@ -1,2 +1,4 @@
 # hello-world
-Just Anoter Repository
+
+Hi All...
+Just try playing with programing
